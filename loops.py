@@ -52,14 +52,3 @@
 # print(a)
 
 
-
-#try and except
-try:
-    a= int(input("Enter number: "))
-except:
-    print("errror")
-b=3
-try:
-    print(a/b)
-except:
-    print("There may be some error")
